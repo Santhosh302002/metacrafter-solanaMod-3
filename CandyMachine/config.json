@@ -1,0 +1,32 @@
+{
+    "price": 1.0,
+    "number": 10,
+    "gatekeeper": null,
+    "solTreasuryAccount": null,
+    "splTokenAccount": "", // Creator's token account
+    "splToken": "", // SPL Token Address
+    "goLiveDate": "2023-03-10T15:55:14.184044500+00:00",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "nft-storage",
+    "uploadMethod": "nft_storage",
+    "nftStorageAuthToken": "", // nft.storage auth token here
+    "retainAuthority": true,
+    "isMutable": true,
+    "symbol": "NB",
+    "sellerFeeBasisPoints": 500,
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "nftStorageKey": null,
+    "awsS3Bucket": null,
+    "noRetainAuthority": false,
+    "noMutable": false,
+    "creators": [
+      {
+        "address": "", // Creator's address
+        "share": 100
+      }
+    ]
+  }
+  
